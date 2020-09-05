@@ -15,11 +15,11 @@ $ apt upgrade
 
 $ pkg install git -y
 
-$ git clone 
+$ git clone https://github.com/tigerhackmalayalam/text-repeater.git
 
-$ cd 
+$ cd text-repeater
 
-$ bash 
+$ bash txt-msg.sh
 
 Then type any text   and click enter
 then Type the number how many times you want to repeat the text
